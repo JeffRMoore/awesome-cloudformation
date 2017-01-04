@@ -33,6 +33,9 @@ Describes CloudFormation Template to deploy a static website with continous depl
 [Running AWS Lambda Functions in AWS CodePipeline using CloudFormation](https://stelligent.com/2016/02/08/aws-lambda-functions-aws-codepipeline-cloudformation/) -
 Describes setting up an invoke action in a CodePipeline.
 
+[Automating AWS CodeDeploy Provisioning in CloudFormation](https://stelligent.com/2016/01/15/automating-aws-codedeploy-provisioning-in-cloudformation/) -
+Deploying a CodePipeline using CodeDeploy service configured by CloudFormation.
+
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
