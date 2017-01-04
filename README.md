@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AWS Documentation](#aws)
 - [Examples](#examples)
   - [CodePipeline](#CodePipeline)
+  - [Cognito](#Cognito)  
 
 <!-- /MarkdownTOC -->
 
@@ -27,6 +28,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### CodePipeline
 [Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
 a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
+
+<a name="Cognito" />
+### Cognito
+[AWS API Gateway Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - An example serverless application deployment with Cognito and Lambda configuration in CloudFormation.
+
 
 ## License
 
