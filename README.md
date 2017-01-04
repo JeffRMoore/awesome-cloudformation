@@ -33,6 +33,9 @@ If you want to contribute to this list (please do), send me a pull request.
 [Build Continuous Delivery Workflows for CloudFormation Stacks](https://aws.amazon.com/blogs/aws/codepipeline-update-build-continuous-delivery-workflows-for-cloudformation-stacks/) - 
 describes how to setup a continuous delivery workflow for deploying CloudFormation Templates using CloudFormation.
 
+[AWS Git-backed Static Website](https://alestic.com/2016/10/aws-git-backed-static-website/) -
+Describes CloudFormation Template to deploy a static website with continous deployment.  Supports Hugo or plain html.
+
 <a name="examples" />
 ## Examples
 
@@ -50,6 +53,10 @@ a GitHub CodePipeline source and a PHP application with an ECS cluster and load 
 [Continuous Delivery Basic Walkthrough](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide//continuous-delivery-codepipeline-basic-walkthrough.html) -
 CloudFormation userguide walkthrough of setting up a CodePipeline for Continuous delivery that uses a CloudFormation
 stack to deploy a separate CloudFormation stack.
+
+[aws-git-backed-static-website](https://github.com/alestic/aws-git-backed-static-website) -
+CloudFormation Template configuring several AWS services to create a static website with Continuous deployment.
+Uses CodeCommit, CodePipeline, Certificate Manager, Route 53, Lamda, CloudFront.  Uses CloudFormation Conditions.
 
 <a name="CognitoExamples" />
 ### Cognito
