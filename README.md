@@ -34,6 +34,10 @@ and community contributed AWS sample templates.
 [Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
 a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
 
+[Continuous Delivery Basic Walkthrough](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide//continuous-delivery-codepipeline-basic-walkthrough.html) -
+CloudFormation userguide walkthrough of setting up a CodePipeline for Continuous delivery that uses a CloudFormation
+stack to deploy a separate CloudFormation stack.
+
 <a name="Cognito" />
 ### Cognito
 [AWS API Gateway Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - An example serverless application deployment with Cognito and Lambda configuration in CloudFormation.
