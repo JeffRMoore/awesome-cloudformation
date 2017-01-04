@@ -67,6 +67,12 @@ with CloudFormation built on Lambda and API Gateway with S3.
 
 [Startup Kit Serverless Workload](https://github.com/awslabs/startup-kit-serverless-workload) - An example serverless RESTful API, to be deployed via the AWS Serverless Application Model (SAM).
 
+[Dromedary](https://github.com/stelligent/dromedary) -
+Sample App to demonstrate a working CodePipeline featured in ARC307: Infrastructure as Code breakout session at 2015 AWS re:Invent.
+
+[Dromedary Serverless](https://github.com/stelligent/dromedary-serverless) -
+Serverless version of the Dromedary application.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
