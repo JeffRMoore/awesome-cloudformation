@@ -9,6 +9,8 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- MarkdownTOC depth=4 -->
 
 - [AWS Documentation](#aws)
+- [Examples](#examples)
+  - [Continuous Deployment](#continuous-deployment)
 
 <!-- /MarkdownTOC -->
 
@@ -18,6 +20,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [User Guide](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) - AWS Official User Guide
 * [API Reference](http://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html) - AWS Official API Reference
 
+<a name="examples" />
+## Examples
+
+<a name="continuous-deployment" />
+### Continuous Deployment
+[Continujous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
+a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
 
 ## License
 
