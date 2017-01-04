@@ -10,6 +10,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [AWS Documentation](#aws)
 - [Articles](#articles)
+- [Tools](#tools)
 - [Examples](#examples)
 
 <!-- /MarkdownTOC -->
@@ -31,6 +32,10 @@ Describes CloudFormation Template to deploy a static website with continous depl
 
 [Running AWS Lambda Functions in AWS CodePipeline using CloudFormation](https://stelligent.com/2016/02/08/aws-lambda-functions-aws-codepipeline-cloudformation/) -
 Describes setting up an invoke action in a CodePipeline.
+
+<a name="tools" />
+## Tools
+[CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 
 <a name="examples" />
 ## Examples
