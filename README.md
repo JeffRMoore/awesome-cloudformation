@@ -29,6 +29,9 @@ If you want to contribute to this list (please do), send me a pull request.
 [AWS CloudFormation Template Collection](https://github.com/awslabs/aws-cloudformation-templates) - Officially supported 
 and community contributed AWS sample templates.
 
+[User Guide Sample Templates](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html) -
+Sample templates from the CloudFormation User Guide.
+
 <a name="CodePipeline" />
 ### CodePipeline
 [Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
