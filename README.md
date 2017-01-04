@@ -25,7 +25,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="continuous-deployment" />
 ### Continuous Deployment
-[Continujous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
+[Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
 a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
 
 ## License
