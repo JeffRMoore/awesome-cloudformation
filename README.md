@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
   - [CodePipeline](#CodePipeline)
   - [Cognito](#Cognito)
   - [Lambda](#Lambda)
+  - [Serverless Application Model (SAM)](#serverless-application-model)
 
 <!-- /MarkdownTOC -->
 
@@ -41,6 +42,10 @@ a GitHub CodePipeline source and a PHP application with an ECS cluster and load 
 ### Lambda
 [Serverless Image Resizing](https://github.com/awslabs/serverless-image-resizing) - An image resizing API deployed
 with CloudFormation built on Lambda and API Gateway with S3.
+
+<a name="serverless-application-model" />
+### Serverless Application Model (SAM)
+[Startup Kit Serverless Workload](https://github.com/awslabs/startup-kit-serverless-workload) - An example serverless RESTful API, to be deployed via the AWS Serverless Application Model (SAM).
 
 ## License
 
