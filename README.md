@@ -10,12 +10,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [AWS Documentation](#aws)
 - [Articles](#articles)
-  - [CodePipeline](#CodePipelineArticles)
 - [Examples](#examples)
-  - [CodePipeline](#CodePipelineExamples)
-  - [Cognito](#CognitoExamples)
-  - [Lambda](#LambdaExamples)
-  - [Serverless Application Model (SAM)](#ServerlessApplicationModelExamples)
 
 <!-- /MarkdownTOC -->
 
@@ -28,8 +23,6 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="articles" />
 ## Articles
 
-### CodePipeline
-<a name="CodePipelineArticles" />
 [Build Continuous Delivery Workflows for CloudFormation Stacks](https://aws.amazon.com/blogs/aws/codepipeline-update-build-continuous-delivery-workflows-for-cloudformation-stacks/) - 
 describes how to setup a continuous delivery workflow for deploying CloudFormation Templates using CloudFormation.
 
@@ -48,8 +41,6 @@ and community contributed AWS sample templates.
 [User Guide Sample Templates](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html) -
 Sample templates from the CloudFormation User Guide.
 
-<a name="CodePipelineExamples" />
-### CodePipeline
 [Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
 a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
 
@@ -61,17 +52,11 @@ stack to deploy a separate CloudFormation stack.
 CloudFormation Template configuring several AWS services to create a static website with Continuous deployment.
 Uses CodeCommit, CodePipeline, Certificate Manager, Route 53, Lamda, CloudFront.  Uses CloudFormation Conditions.
 
-<a name="CognitoExamples" />
-### Cognito
 [AWS API Gateway Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - An example serverless application deployment with Cognito and Lambda configuration in CloudFormation.
 
-<a name="LambdaExamples" />
-### Lambda
 [Serverless Image Resizing](https://github.com/awslabs/serverless-image-resizing) - An image resizing API deployed
 with CloudFormation built on Lambda and API Gateway with S3.
 
-<a name="ServerlessApplicationModelExamples" />
-### Serverless Application Model (SAM)
 [Startup Kit Serverless Workload](https://github.com/awslabs/startup-kit-serverless-workload) - An example serverless RESTful API, to be deployed via the AWS Serverless Application Model (SAM).
 
 ## License
