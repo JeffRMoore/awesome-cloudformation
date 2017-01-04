@@ -11,7 +11,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AWS Documentation](#aws)
 - [Examples](#examples)
   - [CodePipeline](#CodePipeline)
-  - [Cognito](#Cognito)  
+  - [Cognito](#Cognito)
+  - [Lambda](#Lambda)
 
 <!-- /MarkdownTOC -->
 
@@ -36,6 +37,10 @@ a GitHub CodePipeline source and a PHP application with an ECS cluster and load 
 ### Cognito
 [AWS API Gateway Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - An example serverless application deployment with Cognito and Lambda configuration in CloudFormation.
 
+<a name="Lambda" />
+### Lambda
+[Serverless Image Resizing](https://github.com/awslabs/serverless-image-resizing) - An image resizing API deployed
+with CloudFormation built on Lambda and API Gateway with S3.
 
 ## License
 
