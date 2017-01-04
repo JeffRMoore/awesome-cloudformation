@@ -36,6 +36,9 @@ describes how to setup a continuous delivery workflow for deploying CloudFormati
 [AWS Git-backed Static Website](https://alestic.com/2016/10/aws-git-backed-static-website/) -
 Describes CloudFormation Template to deploy a static website with continous deployment.  Supports Hugo or plain html.
 
+[Running AWS Lambda Functions in AWS CodePipeline using CloudFormation](https://stelligent.com/2016/02/08/aws-lambda-functions-aws-codepipeline-cloudformation/) -
+Describes setting up an invoke action in a CodePipeline.
+
 <a name="examples" />
 ## Examples
 
