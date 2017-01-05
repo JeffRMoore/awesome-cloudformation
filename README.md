@@ -116,6 +116,9 @@ Sample App to demonstrate a working CodePipeline featured in ARC307: Infrastruct
 [Dromedary Serverless](https://github.com/stelligent/dromedary-serverless) -
 Serverless version of the Dromedary application.
 
+[ECS CloudFormation Reference Architecture](https://github.com/awslabs/ecs-refarch-cloudformation) -
+A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML).
+
 <a name="other-tools" />
 ## Comparing, Evaluating, Integrating with other Tools
 [Heat](https://wiki.openstack.org/wiki/Heat) - CloudFormation compatible Orchestration program for OpenStack.
