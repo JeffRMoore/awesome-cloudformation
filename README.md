@@ -12,6 +12,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Articles](#articles)
 - [Tools](#tools)
 - [DSLs and Generators](#dsls)
+- [IDEs](#ides)
 - [Examples](#examples)
 - [Comparing, Evaluating, Integrating with other Tools](#other-tools)
 
@@ -69,6 +70,13 @@ A type-safe Scala DSL for generating CloudFormation templates
 
 [go-cloudformation](https://github.com/crewjam/go-cloudformation) - A golang library for reading and producing 
 CloudFormation templates.
+
+<a name="ides" />
+## IDEs
+
+[idea-cloudformation](https://github.com/shalupov/idea-cloudformation) - AWS CloudFormation plugin for IntelliJ-based IDEs (IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, DataGrip, CLion).
+
+[cform](https://github.com/beaknit/cform) - SublimeText plugin for CloudFormation.
 
 <a name="examples" />
 ## Examples
