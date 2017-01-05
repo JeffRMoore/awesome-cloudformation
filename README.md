@@ -44,6 +44,8 @@ How to construct CloudFormation templates that can create new resources or use p
 [CloudFormation To Build A CDN With (Free) Custom SSL](https://serverlesscode.com/post/acm-certificates-in-cloudformation/) -
 How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
+[Using AWS KMS to Encrypt Values in CloudFormation Stacks](https://ben.fogbutter.com/2016/02/22/using-kms-to-encrypt-cloud-formation-values.html) - using a Lambda backed custom resource to encrypt sensative values and make the encrypted form available to CloudFormation.
+
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
