@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Tools](#tools)
 - [DSLs and Generators](#dsls)
 - [Examples](#examples)
+- [Comparing, Evaluating, Integrating with other Tools](#other-tools)
 
 <!-- /MarkdownTOC -->
 
@@ -91,6 +92,10 @@ Sample App to demonstrate a working CodePipeline featured in ARC307: Infrastruct
 
 [Dromedary Serverless](https://github.com/stelligent/dromedary-serverless) -
 Serverless version of the Dromedary application.
+
+<a name="other-tools" />
+## Comparing, Evaluating, Integrating with other Tools
+[Heat](https://wiki.openstack.org/wiki/Heat) - CloudFormation compatible Orchestration program for OpenStack.
 
 ## License
 
