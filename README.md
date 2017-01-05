@@ -46,6 +46,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
 [Using AWS KMS to Encrypt Values in CloudFormation Stacks](https://ben.fogbutter.com/2016/02/22/using-kms-to-encrypt-cloud-formation-values.html) - using a Lambda backed custom resource to encrypt sensative values and make the encrypted form available to CloudFormation.
 
+[How to Translate HIPAA Controls to AWS CloudFormation Templates](https://aws.amazon.com/blogs/security/how-to-translate-hipaa-controls-to-aws-cloudformation-templates-part-3-of-the-automating-hipaa-compliance-series/) - A few security related Template examples.
+
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
