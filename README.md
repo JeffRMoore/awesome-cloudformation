@@ -97,6 +97,8 @@ Serverless version of the Dromedary application.
 ## Comparing, Evaluating, Integrating with other Tools
 [Heat](https://wiki.openstack.org/wiki/Heat) - CloudFormation compatible Orchestration program for OpenStack.
 
+[Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c#.8bkq5jc9z) - Overview of features of various Infrastructure as Code Tools, including CloudFormation
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
