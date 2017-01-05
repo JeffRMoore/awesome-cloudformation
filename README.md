@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AWS Documentation](#aws)
 - [Articles](#articles)
 - [Tools](#tools)
+- [DSLs and Generators](#dsls)
 - [Examples](#examples)
 
 <!-- /MarkdownTOC -->
@@ -45,6 +46,10 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
+
+<a name="dsls" />
+## DSLs and Generators
+[troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
 
 <a name="examples" />
 ## Examples
