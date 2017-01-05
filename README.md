@@ -119,6 +119,9 @@ Serverless version of the Dromedary application.
 [ECS CloudFormation Reference Architecture](https://github.com/awslabs/ecs-refarch-cloudformation) -
 A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML).
 
+[CFN Cluster](https://github.com/awslabs/cfncluster) -
+CfnCluster is a framework that deploys and maintains high performance computing clusters.
+
 <a name="other-tools" />
 ## Comparing, Evaluating, Integrating with other Tools
 [Heat](https://wiki.openstack.org/wiki/Heat) - CloudFormation compatible Orchestration program for OpenStack.
