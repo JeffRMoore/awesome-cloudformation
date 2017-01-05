@@ -53,6 +53,9 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
 [cfndsl](https://github.com/stevenjack/cfndsl) - Ruby DSL for generating AWS CloudFormation templates
 
+[CloudFormation Template Generator](https://github.com/MonsantoCo/cloudformation-template-generator) - 
+A type-safe Scala DSL for generating CloudFormation templates
+
 <a name="examples" />
 ## Examples
 
