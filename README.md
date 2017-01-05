@@ -60,6 +60,10 @@ AWS re:invent 2015
 - [DVO304 - AWS CloudFormation Best Practices](https://www.youtube.com/watch?v=fVMlxJJNmyA)
 - [ARC307 - Infrastructure as Code](https://www.youtube.com/watch?v=WL2xSMVXy5w)
 
+[AWS CloudFormation: Infrastructure as Code](https://www.youtube.com/watch?v=39BP_vImxlU) - From AWS Public Sector Summit 2016
+
+[Deep Dive:Infrastructure as Code](https://www.youtube.com/watch?v=HEyklTbXfMk) - AWS Webinar
+
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
