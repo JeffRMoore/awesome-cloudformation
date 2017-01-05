@@ -39,6 +39,9 @@ Deploying a CodePipeline using CodeDeploy service configured by CloudFormation.
 [Optional Parameters For Pre-existing Resources in AWS CloudFormation Templates](https://alestic.com/2016/11/aws-cloudformation-optional-resources/) -
 How to construct CloudFormation templates that can create new resources or use pre-existing resources.
 
+[CloudFormation To Build A CDN With (Free) Custom SSL](https://serverlesscode.com/post/acm-certificates-in-cloudformation/) -
+How to use AWS Certificate Manager with CloudFormation and CloudFront.
+
 <a name="tools" />
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
