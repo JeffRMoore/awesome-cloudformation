@@ -52,6 +52,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 
+[cfn-check](https://github.com/Versent/cfn-check) - CloudFormation template validation tool
+
 <a name="dsls" />
 ## DSLs and Generators
 [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
