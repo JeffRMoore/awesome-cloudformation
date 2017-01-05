@@ -57,6 +57,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
 [cfn-flow](A practical workflow for AWS CloudFormation) - A workflow tool for launching CloudFormation stacks implementing red/black deployment pattern.
 
+[aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats
+
 <a name="dsls" />
 ## DSLs and Generators
 [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
