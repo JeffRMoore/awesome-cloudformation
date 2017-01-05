@@ -51,6 +51,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 ## DSLs and Generators
 [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
 
+[cfndsl](https://github.com/stevenjack/cfndsl) - Ruby DSL for generating AWS CloudFormation templates
+
 <a name="examples" />
 ## Examples
 
