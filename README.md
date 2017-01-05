@@ -10,6 +10,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [AWS Documentation](#aws)
 - [Articles](#articles)
+- [Videos](#videos)
 - [Tools](#tools)
 - [DSLs and Generators](#dsls)
 - [IDEs](#ides)
@@ -48,6 +49,16 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 [Using AWS KMS to Encrypt Values in CloudFormation Stacks](https://ben.fogbutter.com/2016/02/22/using-kms-to-encrypt-cloud-formation-values.html) - using a Lambda backed custom resource to encrypt sensative values and make the encrypted form available to CloudFormation.
 
 [How to Translate HIPAA Controls to AWS CloudFormation Templates](https://aws.amazon.com/blogs/security/how-to-translate-hipaa-controls-to-aws-cloudformation-templates-part-3-of-the-automating-hipaa-compliance-series/) - A few security related Template examples.
+
+<a name="videos" />
+## Videos
+
+AWS re:invent 2016
+- [DEV313 - Infrastructure Continuous Delivery Using AWS CloudFormation](https://www.youtube.com/watch?v=TDalsML3QqY)
+
+AWS re:invent 2015
+- [DVO304 - AWS CloudFormation Best Practices](https://www.youtube.com/watch?v=fVMlxJJNmyA)
+- [ARC307 - Infrastructure as Code](https://www.youtube.com/watch?v=WL2xSMVXy5w)
 
 <a name="tools" />
 ## Tools
