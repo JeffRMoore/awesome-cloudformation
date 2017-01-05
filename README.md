@@ -54,6 +54,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
 [cfn-check](https://github.com/Versent/cfn-check) - CloudFormation template validation tool
 
+[cfn-flow](A practical workflow for AWS CloudFormation) - A workflow tool for launching CloudFormation stacks implementing red/black deployment pattern.
+
 <a name="dsls" />
 ## DSLs and Generators
 [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
@@ -63,7 +65,7 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 [CloudFormation Template Generator](https://github.com/MonsantoCo/cloudformation-template-generator) - 
 A type-safe Scala DSL for generating CloudFormation templates
 
-[Lono](https://github.com/tongueroo/lono) - Lono generates cloud formation templates based on erb templates
+[Lono](https://github.com/tongueroo/lono) - Lono generates CloudFormation templates based on erb templates
 
 <a name="examples" />
 ## Examples
