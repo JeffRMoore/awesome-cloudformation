@@ -63,6 +63,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 [CloudFormation Template Generator](https://github.com/MonsantoCo/cloudformation-template-generator) - 
 A type-safe Scala DSL for generating CloudFormation templates
 
+[Lono](https://github.com/tongueroo/lono) - Lono generates cloud formation templates based on erb templates
+
 <a name="examples" />
 ## Examples
 
