@@ -67,6 +67,9 @@ A type-safe Scala DSL for generating CloudFormation templates
 
 [Lono](https://github.com/tongueroo/lono) - Lono generates CloudFormation templates based on erb templates
 
+[go-cloudformation](https://github.com/crewjam/go-cloudformation) - A golang library for reading and producing 
+CloudFormation templates.
+
 <a name="examples" />
 ## Examples
 
