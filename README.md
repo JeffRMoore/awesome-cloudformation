@@ -115,7 +115,7 @@ Sample templates from the CloudFormation User Guide.
 [Stelligent CloudFormation Templates](https://github.com/stelligent/cloudformation_templates) -
 Impressive collection of templates from Stelligent.
 
-[Continuous Deployment Reference Architecture] (https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
+[Continuous Deployment Reference Architecture](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline.  Demonstrates
 a GitHub CodePipeline source and a PHP application with an ECS cluster and load balancer.
 
 [Continuous Delivery Basic Walkthrough](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide//continuous-delivery-codepipeline-basic-walkthrough.html) -
