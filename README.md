@@ -20,12 +20,14 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- /MarkdownTOC -->
 
 <a name="aws" />
+
 ## AWS Documentation
 
 * [User Guide](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) - AWS Official User Guide
 * [API Reference](http://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html) - AWS Official API Reference
 
 <a name="articles" />
+
 ## Articles
 
 [Build Continuous Delivery Workflows for CloudFormation Stacks](https://aws.amazon.com/blogs/aws/codepipeline-update-build-continuous-delivery-workflows-for-cloudformation-stacks/) - 
@@ -51,6 +53,7 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 [How to Translate HIPAA Controls to AWS CloudFormation Templates](https://aws.amazon.com/blogs/security/how-to-translate-hipaa-controls-to-aws-cloudformation-templates-part-3-of-the-automating-hipaa-compliance-series/) - A few security related Template examples.
 
 <a name="videos" />
+
 ## Videos
 
 AWS re:invent 2016
@@ -65,6 +68,7 @@ AWS re:invent 2015
 [Deep Dive:Infrastructure as Code](https://www.youtube.com/watch?v=HEyklTbXfMk) - AWS Webinar
 
 <a name="tools" />
+
 ## Tools
 [CFN Nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 
@@ -75,7 +79,9 @@ AWS re:invent 2015
 [aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats
 
 <a name="dsls" />
+
 ## DSLs and Generators
+
 [troposphere](https://github.com/cloudtools/troposphere) - Python library to create AWS CloudFormation descriptions
 
 [cfndsl](https://github.com/stevenjack/cfndsl) - Ruby DSL for generating AWS CloudFormation templates
@@ -89,6 +95,7 @@ A type-safe Scala DSL for generating CloudFormation templates
 CloudFormation templates.
 
 <a name="ides" />
+
 ## IDEs
 
 [idea-cloudformation](https://github.com/shalupov/idea-cloudformation) - AWS CloudFormation plugin for IntelliJ-based IDEs (IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, DataGrip, CLion).
@@ -96,6 +103,7 @@ CloudFormation templates.
 [cform](https://github.com/beaknit/cform) - SublimeText plugin for CloudFormation.
 
 <a name="examples" />
+
 ## Examples
 
 [AWS CloudFormation Template Collection](https://github.com/awslabs/aws-cloudformation-templates) - Officially supported 
@@ -138,7 +146,9 @@ A reference architecture for deploying containerized microservices with Amazon E
 CfnCluster is a framework that deploys and maintains high performance computing clusters.
 
 <a name="other-tools" />
+
 ## Comparing, Evaluating, Integrating with other Tools
+
 [Heat](https://wiki.openstack.org/wiki/Heat) - CloudFormation compatible Orchestration program for OpenStack.
 
 [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c#.8bkq5jc9z) - Overview of features of various Infrastructure as Code Tools, including CloudFormation.
